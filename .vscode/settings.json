@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": false,
+    "files.associations": {
+        "tuple": "cpp",
+        "vector": "cpp",
+        "queue": "cpp"
+    }
+}
