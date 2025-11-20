@@ -1,13 +1,6 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-using namespace std;
+#include "all.hpp"
 
-void solve() {
-    
-}
-
-signed main() {
+int main() {
+    FAST_IO;
     return 0;
 }
